@@ -25,6 +25,7 @@
 | HFDualCNN | K-Fold + SBI | ~0.984 |
 | RobustSRM MIL | SRM-фильтры + Top-K MIL | ~0.977 |
 | IR-CFA-CCNet | CFA-форензика | ~0.979 |
+| RGBFreqNet | fft phase | ~0.963 |
 | **EfficientNetV5** ⭐ | OOF + 384px + Full Fit | **0.9942** |
 | Stacking Ensemble | 10 моделей · 2 фазы | **TOP-3** |
 
