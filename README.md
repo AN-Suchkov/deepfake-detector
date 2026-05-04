@@ -1,7 +1,6 @@
 # 🎭 Deepfake Face Detector
 
 > **ML Intensive · Yandex Academy · Spring 2026**  
-> **Team 39** · Пилипенко Владислав · Сучков Алексей
 
 [![F1 Score](https://img.shields.io/badge/F1--score-0.9942-10B981?style=flat-square)](.)
 [![Top-3](https://img.shields.io/badge/Leaderboard-TOP--3-F59E0B?style=flat-square)](.)
@@ -69,13 +68,15 @@ notebooks/
 
 ├── 09_ir_cfa_ccnet.ipynb         — CFA форензик анализ
 
-├── 10_efficientnet_v5.ipynb      — лучшая модель, F1=0.9942
+├── 10_rgbfreq_net.ipynb         — Улучшенная частотная модель
 
-├── 11_ensemble_top2_predict.ipynb — предсказания для ансамбля
+├── 11_efficientnet_v5.ipynb      — лучшая модель, F1=0.9942
 
-├── 12_stacking_v2.ipynb          — двухфазный стекинг
+├── 12_ensemble_top2_predict.ipynb — предсказания для ансамбля
 
-└── 13_visualizations.ipynb       — все визуализации для презентации
+├── 13_stacking_v2.ipynb          — двухфазный стекинг
+
+└── 14_visualizations.ipynb       — все визуализации для презентации
 
 docs/
 
@@ -98,5 +99,5 @@ drive.mount('/content/drive')
 3. Укажи путь к архиву датасета (переменная `ZIP_PATH` в начале блокнота)
 4. Запусти все ячейки
 
-**Датасет:** [Google Drive →]()
-**Веса моделей:** [Google Drive →]()
+**Датасет:** [Google Drive →](https://drive.google.com/file/d/1xNCJLd7me2Fqno2QhSJ1zjFteWYcUpcV/view?usp=sharing)
+**Веса моделей:** [Google Drive →](https://drive.google.com/drive/folders/1QFX5MSzo861ivmZBmwiCte3N4FnoZUKk?usp=sharing)
