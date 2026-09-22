@@ -3,7 +3,7 @@
 > **ML Intensive · Yandex Academy · Spring 2026**  
 
 [![F1 Score](https://img.shields.io/badge/F1--score-0.9942-10B981?style=flat-square)](.)
-[![Top-3](https://img.shields.io/badge/Leaderboard-TOP--3-F59E0B?style=flat-square)](.)
+[![Top-3](https://img.shields.io/badge/Leaderboard-TOP--1-F59E0B?style=flat-square)](.)
 [![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square)](.)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0-ee4c2c?style=flat-square)](.)
 
